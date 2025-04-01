@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://3r0qljow2le5"]
+
+[node name="PotatoUi" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_left = -100.0
+offset_right = 100.0
+offset_bottom = 75.0
+color = Color(0, 0, 0, 0.392157)
+
+[node name="potatoes" type="Label" parent="."]
+layout_mode = 0
+offset_left = -76.0
+offset_right = 76.0
+offset_bottom = 75.0
+text = "Potatoes Harvested
+
+0"
+horizontal_alignment = 1
