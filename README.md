@@ -1,5 +1,5 @@
 # Potato.
- 
+
 An incredibly simple clicker game with much action and wow!
 
 Took 6 hours of development time, made in Godot.
@@ -11,3 +11,5 @@ This is a simple and barebones proof of concept I made for the funny that people
 You can find this on [itch.io](https://silencefat.itch.io/potato)!
 
 Further work is unlikely but not out of the picture.
+
+![potato](https://github.com/user-attachments/assets/9c5df5bc-39a3-427f-8896-9b2cf77888e3)
